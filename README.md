@@ -14,8 +14,6 @@ RedCircleSpiral is a simple turtle graphics project that creates a mesmerizing s
 - Python 3.x
 - Turtle graphics module (included with Python)
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mohammedmbarki/RedCircleSpiral.git
+ ## Final result
+![Capture d'écran 2024-11-04 172710](https://github.com/user-attachments/assets/c8bfc135-64e1-4a94-a556-140e18d416f3)
